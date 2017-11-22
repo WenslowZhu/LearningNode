@@ -1,0 +1,772 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="acb4677b-4318-4ecd-91b5-0886a2914d4d" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="1.5 默认DIRT.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/第一部分 Node基础/第一章/1.5 默认DIRT.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/第一部分 Node基础/第二章/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/第一部分 Node基础/第二章/public/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="28" column="5" lean-forward="false" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="server.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/第一部分 Node基础/第二章/server.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1547">
+              <caret line="92" column="26" lean-forward="false" selection-start-line="92" selection-start-column="26" selection-end-line="92" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="chat_server.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/第一部分 Node基础/第二章/lib/chat_server.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="15" column="21" lean-forward="false" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/第一部分 Node基础/第二章/public/stylesheets/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="506">
+              <caret line="55" column="60" lean-forward="false" selection-start-line="55" selection-start-column="60" selection-end-line="55" selection-end-column="60" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package_json" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>pipe</find>
+      <find>broadcast</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/第一部分 Node基础/第一章/1.5 默认DIRT.js" />
+        <option value="$PROJECT_DIR$/第一部分 Node基础/第二章/public/javascript.js" />
+        <option value="$PROJECT_DIR$/第一部分 Node基础/第二章/server.js" />
+        <option value="$PROJECT_DIR$/第一部分 Node基础/第二章/public/javascript/char.js" />
+        <option value="$PROJECT_DIR$/第一部分 Node基础/第二章/public/javascript/chat_ui.js" />
+        <option value="$PROJECT_DIR$/第一部分 Node基础/第二章/public/stylesheets/style.css" />
+        <option value="$PROJECT_DIR$/第一部分 Node基础/第二章/public/index.html" />
+        <option value="$PROJECT_DIR$/第一部分 Node基础/第二章/lib/chat_server.js" />
+        <option value="$PROJECT_DIR$/第一部分 Node基础/第二章/package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+    <handled-path value="$PROJECT_DIR$/第一部分 Node基础/第二章/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="675" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Node.js实战" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Node.js实战" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="第一部分 Node基础" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="第二章" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Node.js实战" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Node.js实战" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="第一部分 Node基础" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="第二章" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Node.js实战" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Node.js实战" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="第一部分 Node基础" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="第二章" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javascripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Node.js实战" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Node.js实战" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="第一部分 Node基础" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="第二章" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Node.js实战" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Node.js实战" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="第一部分 Node基础" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Node.js实战" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Node.js实战" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="javascript.nodejs.core.library.configured.version" value="6.10.2" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.server.js">
+    <configuration default="false" name="1.5 默认DIRT.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="1.5 默认DIRT.js" working-dir="$PROJECT_DIR$/第一部分 Node基础/第一章">
+      <method />
+    </configuration>
+    <configuration default="false" name="server.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="server.js" working-dir="$PROJECT_DIR$/第一部分 Node基础/第二章">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.1.5 默认DIRT.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.server.js" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.server.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.1.5 默认DIRT.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="acb4677b-4318-4ecd-91b5-0886a2914d4d" name="Default" comment="" />
+      <created>1497534470901</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1497534470901</updated>
+      <workItem from="1497534472100" duration="5641000" />
+      <workItem from="1497752452442" duration="11514000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="17155000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="675" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32838285" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33962265" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32761577" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/第一部分 Node基础/第一章/1.5 默认DIRT.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一部分 Node基础/第二章/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="1" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一部分 Node基础/第二章/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1716">
+          <caret line="80" column="21" lean-forward="true" selection-start-line="80" selection-start-column="21" selection-end-line="80" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/6.10.2/core-modules/fs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48620">
+          <caret line="2210" column="65" lean-forward="false" selection-start-line="2210" selection-start-column="61" selection-end-line="2210" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/6.10.2/core-modules/fs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48620">
+          <caret line="2210" column="65" lean-forward="false" selection-start-line="2210" selection-start-column="61" selection-end-line="2210" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一部分 Node基础/第二章/public/javascript.js" />
+    <entry file="file://$PROJECT_DIR$/第一部分 Node基础/第二章/node_modules/socket.io/lib/socket.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="153" column="65" lean-forward="false" selection-start-line="153" selection-start-column="56" selection-end-line="153" selection-end-column="65" />
+          <folding>
+            <marker date="1497269085000" expanded="true" signature="1:32" ph="/** Module dependencies. ...*/" />
+            <marker date="1497269085000" expanded="true" signature="238:264" ph="/** Module exports. ...*/" />
+            <marker date="1497269085000" expanded="true" signature="302:350" ph="/** Blacklisted events. ...*/" />
+            <marker date="1497269085000" expanded="true" signature="369:467" ph="[...]" />
+            <marker date="1497269085000" expanded="true" signature="470:506" ph="/** Flags. ...*/" />
+            <marker date="1497269085000" expanded="true" signature="520:561" ph="[...]" />
+            <marker date="1497269085000" expanded="true" signature="564:605" ph="/** `EventEmitter##emit` reference. ...*/" />
+            <marker date="1497269085000" expanded="true" signature="643:772" ph="/** Interface to a `Client` for a given `Namespace`. ...*/" />
+            <marker date="1497269085000" expanded="true" signature="809:1209" ph="{...}" />
+            <marker date="1497269085000" expanded="true" signature="1211:1251" ph="/** Inherits from `EventEmitter`. ...*/" />
+            <marker date="1497269085000" expanded="true" signature="1302:1339" ph="/** Apply flags from `Socket`. ...*/" />
+            <marker date="1497269085000" expanded="true" signature="1369:1506" ph="{...}" />
+            <marker date="1497269085000" expanded="true" signature="1419:1502" ph="{...}" />
+            <marker date="1497269085000" expanded="true" signature="1441:1498" ph="{...}" />
+            <marker date="1497269085000" expanded="true" signature="1510:1568" ph="/** `request` engine.io shortcut. ...*/" />
+            <marker date="1497269085000" expanded="true" signature="1621:1678" ph="{...}" />
+            <marker date="1497269085000" expanded="true" signature="1641:1676" ph="{...}" />
+            <marker date="1497269085000" expanded="true" signature="1682:1744" ph="/** Builds the `handshake` BC object ...*/" />
+            <marker date="1497269085000" expanded="true" signature="1795:2315" ph="{...}" />
+            <marker date="1497269085000" expanded="true" signature="1839:2028" ph="{...}" />
+            <marker date="1497269085000" expanded="true" signature="2038:2312" ph="{...}" />
+            <marker date="1497269085000" expanded="true" signature="2318:2393" ph="/** Emits to this client. ...*/" />
+            <marker date="1497269085000" expanded="true" signature="2431:3388" ph="{...}" />
+            <marker date="1497269085000" expanded="true" signature="2468:2523" ph="{...}" />
+            <marker date="1497269085000" expanded="true" signature="2592:2636" ph="{&quot;type&quot;: parser.EVENT...}" />
+            <marker date="1497269085000" expanded="true" signature="2747:3018" ph="{...}" />
+            <marker date="1497269085000" expanded="true" signature="2801:2880" ph="{...}" />
+            <marker date="1497269085000" expanded="true" signature="3191:3305" ph="{...}" />
+            <marker date="1497269085000" expanded="true" signature="3228:3299" ph="{&quot;rooms&quot;: rooms...}" />
+            <marker date="1497269085000" expanded="true" signature="3311:3371" ph="{...}" />
+            <marker date="1497269085000" expanded="true" signature="3391:3502" ph="/** Targets a room when broadcasting. ...*/" />
+            <marker date="1497269085000" expanded="true" signature="3562:3639" ph="{...}" />
+            <marker date="1497269085000" expanded="true" signature="3642:3720" ph="/** Sends a `message` event. ...*/" />
+            <marker date="1497269085000" expanded="true" signature="3781:3909" ph="{...}" />
+            <marker date="1497269085000" expanded="true" signature="3912:4023" ph="/** Writes a packet. ...*/" />
+            <marker date="1497269085000" expanded="true" signature="4073:4206" ph="{...}" />
+            <marker date="1497269085000" expanded="true" signature="4209:4368" ph="/** Joins a room. ...*/" />
+            <marker date="1497269085000" expanded="true" signature="4413:4922" ph="{...}" />
+            <marker date="1497269085000" expanded="true" signature="4498:4524" ph="{...}" />
+            <marker date="1497269085000" expanded="true" signature="4564:4614" ph="{...}" />
+            <marker date="1497269085000" expanded="true" signature="4638:4680" ph="{...}" />
+            <marker date="1497269085000" expanded="true" signature="4732:4903" ph="{...}" />
+            <marker date="1497269085000" expanded="true" signature="4839:4877" ph="{...}" />
+            <marker date="1497269085000" expanded="true" signature="4925:5061" ph="/** Leaves a room. ...*/" />
+            <marker date="1497269085000" expanded="true" signature="5106:5347" ph="{...}" />
+            <marker date="1497269085000" expanded="true" signature="5206:5328" ph="{...}" />
+            <marker date="1497269085000" expanded="true" signature="5350:5396" ph="/** Leave all rooms. ...*/" />
+            <marker date="1497269085000" expanded="true" signature="5436:5490" ph="{...}" />
+            <marker date="1497269085000" expanded="true" signature="5493:5694" ph="/** Called by `Namespace` upon successful ...*/" />
+            <marker date="1497269085000" expanded="true" signature="5735:6036" ph="{...}" />
+            <marker date="1497269085000" expanded="true" signature="5920:5980" ph="{...}" />
+            <marker date="1497269085000" expanded="true" signature="5986:6034" ph="{...}" />
+            <marker date="1497269085000" expanded="true" signature="6039:6139" ph="/** Called with each packet. Called by `Client`. ...*/" />
+            <marker date="1497269085000" expanded="true" signature="6185:6648" ph="{...}" />
+            <marker date="1497269085000" expanded="true" signature="6244:6646" ph="{...}" />
+            <marker date="1497269085000" expanded="true" signature="6268:6309" ph="..." />
+            <marker date="1497269085000" expanded="true" signature="6340:6381" ph="..." />
+            <marker date="1497269085000" expanded="true" signature="6403:6442" ph="..." />
+            <marker date="1497269085000" expanded="true" signature="6471:6510" ph="..." />
+            <marker date="1497269085000" expanded="true" signature="6539:6579" ph="..." />
+            <marker date="1497269085000" expanded="true" signature="6603:6642" ph="..." />
+            <marker date="1497269085000" expanded="true" signature="6651:6739" ph="/** Called upon event packet. ...*/" />
+            <marker date="1497269085000" expanded="true" signature="6784:6993" ph="{...}" />
+            <marker date="1497269085000" expanded="true" signature="6880:6967" ph="{...}" />
+            <marker date="1497269085000" expanded="true" signature="6996:7105" ph="/** Produces an ack callback to emit with an event. ...*/" />
+            <marker date="1497269085000" expanded="true" signature="7142:7453" ph="{...}" />
+            <marker date="1497269085000" expanded="true" signature="7202:7450" ph="{...}" />
+            <marker date="1497269085000" expanded="true" signature="7364:7426" ph="{&quot;id&quot;: id...}" />
+            <marker date="1497269085000" expanded="true" signature="7456:7509" ph="/** Called upon ack packet. ...*/" />
+            <marker date="1497269085000" expanded="true" signature="7552:7802" ph="{...}" />
+            <marker date="1497269085000" expanded="true" signature="7620:7753" ph="{...}" />
+            <marker date="1497269085000" expanded="true" signature="7759:7800" ph="{...}" />
+            <marker date="1497269085000" expanded="true" signature="7805:7872" ph="/** Called upon client disconnect packet. ...*/" />
+            <marker date="1497269085000" expanded="true" signature="7916:8000" ph="{...}" />
+            <marker date="1497269085000" expanded="true" signature="8003:8056" ph="/** Handles a client error. ...*/" />
+            <marker date="1497269085000" expanded="true" signature="8098:8272" ph="{...}" />
+            <marker date="1497269085000" expanded="true" signature="8138:8172" ph="{...}" />
+            <marker date="1497269085000" expanded="true" signature="8178:8270" ph="{...}" />
+            <marker date="1497269085000" expanded="true" signature="8275:8411" ph="/** Called upon closing. Called by `Client`. ...*/" />
+            <marker date="1497269085000" expanded="true" signature="8456:8779" ph="{...}" />
+            <marker date="1497269085000" expanded="true" signature="8782:8875" ph="/** Produces an `error` packet. ...*/" />
+            <marker date="1497269085000" expanded="true" signature="8915:8968" ph="{...}" />
+            <marker date="1497269085000" expanded="true" signature="8971:9119" ph="/** Disconnects this client. ...*/" />
+            <marker date="1497269085000" expanded="true" signature="9166:9375" ph="{...}" />
+            <marker date="1497269085000" expanded="true" signature="9217:9252" ph="{...}" />
+            <marker date="1497269085000" expanded="true" signature="9258:9358" ph="{...}" />
+            <marker date="1497269085000" expanded="true" signature="9378:9523" ph="/** Sets the compress flag. ...*/" />
+            <marker date="1497269085000" expanded="true" signature="9571:9623" ph="{...}" />
+            <marker date="1497269085000" expanded="true" signature="9626:9746" ph="/** Dispatch incoming event to socket listeners. ...*/" />
+            <marker date="1497269085000" expanded="true" signature="9791:10077" ph="{...}" />
+            <marker date="1497269085000" expanded="true" signature="9886:10040" ph="{...}" />
+            <marker date="1497269085000" expanded="true" signature="9919:10034" ph="{...}" />
+            <marker date="1497269085000" expanded="true" signature="9936:9997" ph="{...}" />
+            <marker date="1497269085000" expanded="true" signature="10080:10215" ph="/** Sets up socket middleware. ...*/" />
+            <marker date="1497269085000" expanded="true" signature="10252:10291" ph="{...}" />
+            <marker date="1497269085000" expanded="true" signature="10294:10468" ph="/** Executes the middleware for an incoming event. ...*/" />
+            <marker date="1497269085000" expanded="true" signature="10511:10854" ph="{...}" />
+            <marker date="1497269085000" expanded="true" signature="10598:10841" ph="{...}" />
+            <marker date="1497269085000" expanded="true" signature="10631:10835" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一部分 Node基础/第二章/node_modules/socket.io/lib/namespace.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="254" column="0" lean-forward="false" selection-start-line="254" selection-start-column="0" selection-end-line="254" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/6.10.2/core-modules/events.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="275" column="2" lean-forward="false" selection-start-line="275" selection-start-column="2" selection-end-line="275" selection-end-column="2" />
+          <folding>
+            <marker date="1497500303000" expanded="true" signature="28:214" ph="//..." />
+            <marker date="1497500303000" expanded="true" signature="315:350" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="637:790" ph="//..." />
+            <marker date="1497500303000" expanded="true" signature="881:1130" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="921:958" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="981:1128" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="987:1080" ph="//..." />
+            <marker date="1497500303000" expanded="true" signature="1165:1637" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="1222:1427" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="1381:1423" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="1506:1578" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="1640:1767" ph="//..." />
+            <marker date="1497500303000" expanded="true" signature="1837:1998" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="2033:2150" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="2220:2256" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="2259:2605" ph="//..." />
+            <marker date="1497500303000" expanded="true" signature="2645:2838" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="2690:2836" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="2883:3088" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="2934:3086" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="3139:3356" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="3196:3354" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="3415:3644" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="3478:3642" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="3691:3898" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="3743:3896" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="3950:5652" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="4291:4830" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="4332:4537" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="4568:4618" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="4624:4808" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="4928:4980" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="5067:5592" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="5098:5148" ph="..." />
+            <marker date="1497500303000" expanded="true" signature="5160:5223" ph="..." />
+            <marker date="1497500303000" expanded="true" signature="5235:5312" ph="..." />
+            <marker date="1497500303000" expanded="true" signature="5324:5417" ph="..." />
+            <marker date="1497500303000" expanded="true" signature="5444:5588" ph="..." />
+            <marker date="1497500303000" expanded="true" signature="5710:7654" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="5900:5985" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="5991:6469" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="5997:6127" ph="//..." />
+            <marker date="1497500303000" expanded="true" signature="6156:6436" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="6273:6399" ph="//..." />
+            <marker date="1497500303000" expanded="true" signature="6488:6637" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="6643:7634" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="6685:6882" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="6888:7061" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="6962:7007" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="7013:7055" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="7120:7630" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="7203:7624" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="7730:7785" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="7939:8001" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="8047:8250" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="8085:8211" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="8139:8207" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="8312:8485" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="8582:8788" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="8938:10362" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="9305:9566" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="9405:9558" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="9604:10336" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="9670:9858" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="9741:9848" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="9941:10163" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="10015:10101" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="10107:10153" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="10169:10217" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="10447:11768" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="10642:10971" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="10680:10770" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="10794:10942" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="11068:11442" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="11161:11287" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="11520:11575" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="11596:11742" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="11631:11712" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="11831:12155" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="11928:12138" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="12211:12368" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="12264:12309" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="12315:12366" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="12454:12687" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="12502:12672" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="12584:12607" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="12629:12668" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="12747:12819" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="12919:13032" ph="{...}" />
+            <marker date="1497500303000" expanded="true" signature="13062:13143" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一部分 Node基础/第二章/public/javascript/char.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-78">
+          <caret line="34" column="9" lean-forward="false" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一部分 Node基础/第一章/1.5 默认DIRT.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_jquery_index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="1896" column="4" lean-forward="false" selection-start-line="1896" selection-start-column="4" selection-end-line="1896" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../深入浅出Node.js/code/2/chat/public/javascripts/chat_ui.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1047">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一部分 Node基础/第二章/public/stylesheets/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="55" column="60" lean-forward="false" selection-start-line="55" selection-start-column="60" selection-end-line="55" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一部分 Node基础/第二章/public/javascript/chat_ui.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一部分 Node基础/第二章/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="28" column="5" lean-forward="false" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一部分 Node基础/第二章/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1547">
+          <caret line="92" column="26" lean-forward="false" selection-start-line="92" selection-start-column="26" selection-end-line="92" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一部分 Node基础/第二章/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一部分 Node基础/第二章/lib/chat_server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="21" lean-forward="false" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

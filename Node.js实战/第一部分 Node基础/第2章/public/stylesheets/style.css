@@ -1,0 +1,58 @@
+body {
+    padding: 50px;
+    font: 14px 'Licida Grande', Helvetica, Arial, sans-serif;
+}
+
+a {
+    color: #00B7FF;
+}
+
+/*程序界面宽度是800px， 水平居中*/
+#content {
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*显示当前聊天室名称那个区域的CSS规则*/
+#room {
+    background-color: #ddd;
+    margin-bottom: 1em;
+}
+
+/*显示消息的区域宽度690p， 高300p*/
+#messages {
+    width: 690px;
+    height: 300px;
+    /*让显示消息的区域在内容填满后可以向下滚动*/
+    overflow: auto;
+    background-color: #eee;
+    margin-bottom: 1em;
+    margin-right: 10px;
+}
+
+#room-list {
+    float: right;
+    width: 100px;
+    height: 300px;
+    overflow: auto;
+}
+
+#room-list div{
+    border-bottom: 1px solid #eee;
+}
+
+#room-list div:hover {
+    background-color: #ddd;
+}
+
+#send-messages {
+    width: 700px;
+    margin-bottom: 1em;
+    margin-right: 1em;
+}
+
+#help {
+    font: 10px "Lucida Grande", Helvatica, Arial, sans-serif;
+}
+
