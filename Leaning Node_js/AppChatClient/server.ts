@@ -9,6 +9,9 @@ const app = express();
 const http = require('http').Server(app);
 const io = require('socket.io')(http);
 const mongoose = require('mongoose');
+const textCensor = require('text-censor');
+
+mongoose.Promise = Promise;
 
 app.use(express.static(__dirname));//定义根目录
 app.use(bodyParser.json());//自动解析json
@@ -21,10 +24,10 @@ const Message = mongoose.model('Message', {
     message: String
 });
 
-let messages = [
-    {name: 'Tim', message: 'Hi'},
-    {name: 'Jane', message: 'Hello'}
-];
+// let messages = [
+//     {name: 'Tim', message: 'Hi'},
+//     {name: 'Jane', message: 'Hello'}
+// ];
 
 // app.get('/messages', (req, res) => {
 //     res.send(messages);
@@ -54,20 +57,68 @@ io.on('connection', (socket) => {
     });
 
     //接受网页发来的消息
-    socket.on('postMessage', (data) => {
-        //保存数据到数据库
-        const message = new Message(data);
-        message.save((err) => {
-            if (err) {
-                console.log(err);
-                socket.emit('message', {'Save Error': 'Error'});
-            } else {
-                // messages.push(data);
-                socket.emit('message', data);
+    socket.on('postMessage', async (data) => {
+
+        try {
+
+            //保存数据到数据库
+            let message = new Message(data);
+
+            const saveMessage = await message.save();
+
+            console.log(`${saveMessage} saved`);
+
+            const censoredName = await textCensor.filter(message.name);
+            if (censoredName) {
+                message.name = censoredName;
+
+                const censored = await Message.findOne({name: message.name});
+                if (censored) {
+                    console.log('cencored word found', censored);
+                    await Message.remove({_id: censored.id});
+                    console.log(`${censored} removed success`);
+                }
             }
-        });
+
+            const censoredMessage = await textCensor.filter(message.message);
+            if (censoredMessage) {
+                message.message = censoredMessage;
+
+                const censored = await Message.findOne({message: message.message});
+                if (censored) {
+                    console.log('cencored word found', censored);
+                    await Message.remove({_id: censored.id});
+                    console.log(`${censored} removed success`);
+                }
+            }
+
+            io.emit('message', message);
+        } catch (err) {
+            socket.emit('message', {name: 'Error', message: 'Error'});
+            return console.log(err);
+        } finally {
+            console.log('message post called');
+        }
     });
 });
+
+
+
+//
+// Message.findOne({message: 'badword'}, (err, censored) => {
+//     if (censored) {
+//         npmconsole.log('cencored word found', censored);
+//         Message.remove({_id: censored.id}, (err) => {
+//             if (err) {
+//                 console.log(err);
+//             } else {
+//                 console.log('removed censored message');
+//             }
+//         });
+//     }
+// });
+// // messages.push(data);
+// io.emit('message', data);
 
 mongoose.connect(dbURI, {useMongoClient: true}, (err) => {
     if (err) {
